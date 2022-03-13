@@ -1,0 +1,2 @@
+- I am a [:ruby [:rb "senior"] [:rp "("] [:rt {:style {color "var(--ct-warning-color)"}} "中年"][:rp ")"]] lawyer.
+- 在这里主要写一些 [[阅读记录]]
