@@ -80,7 +80,7 @@
   :block/updated-at 1646990765171}
  {:block/name "intro",
   :block/created-at 1647065072445,
-  :block/updated-at 1647160587222}
+  :block/updated-at 1647161414647}
  {:block/name "later",
   :block/created-at 1646990765171,
   :block/updated-at 1646990765171}
@@ -114,9 +114,6 @@
  {:block/name "公司法前言问题研究",
   :block/created-at 1646990007808,
   :block/updated-at 1646990007808}
- {:block/name "公司组织机构调整背后的逻辑",
-  :block/created-at 1647065149847,
-  :block/updated-at 1647065755190}
  {:block/name "公司财务",
   :block/created-at 1646990007854,
   :block/updated-at 1647065195555}
