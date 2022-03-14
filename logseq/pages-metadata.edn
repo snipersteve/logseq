@@ -17,15 +17,6 @@
  {:block/name "20220314",
   :block/created-at 1647217983449,
   :block/updated-at 1647218297123}
- {:block/name "622b2eaf-f462-443d-a240-730b53dc50da",
-  :block/created-at 1647095927904,
-  :block/updated-at 1647095927904}
- {:block/name "622b32a0-c5f0-434b-8e8e-bf503e9d98db",
-  :block/created-at 1647065030161,
-  :block/updated-at 1647065030161}
- {:block/name "622c394b-5b7b-43b9-a442-08e26149d374",
-  :block/created-at 1647103560664,
-  :block/updated-at 1647103560664}
  {:block/name "a",
   :block/created-at 1646990765171,
   :block/updated-at 1646990765171}
@@ -39,8 +30,8 @@
   :block/created-at 1646990765171,
   :block/updated-at 1647064344037}
  {:block/name "contents",
-  :block/created-at 1646990765171,
-  :block/updated-at 1646990765171}
+  :block/created-at 1647225687026,
+  :block/updated-at 1647225687026}
  {:block/name "doing",
   :block/created-at 1646990765171,
   :block/updated-at 1646990765171}
@@ -99,15 +90,9 @@
  {:block/name "waiting",
   :block/created-at 1646990765171,
   :block/updated-at 1646990765171}
- {:block/name "一人公司",
-  :block/created-at 1647098223049,
-  :block/updated-at 1647098223049}
  {:block/name "一本书读懂财报",
   :block/created-at 1646990007767,
   :block/updated-at 1647220332003}
- {:block/name "公司法",
-  :block/created-at 1647065459140,
-  :block/updated-at 1647103113990}
  {:block/name "公司法修订草案",
   :block/created-at 1647065195553,
   :block/updated-at 1647219881882}
@@ -125,37 +110,22 @@
   :block/updated-at 1647103071316}
  {:block/name "底层逻辑",
   :block/created-at 1646990007948,
-  :block/updated-at 1646990007948}
- {:block/name "征求意见",
-  :block/created-at 1646990259154,
-  :block/updated-at 1647011615570}
+  :block/updated-at 1647221374943}
  {:block/name "杂七杂八",
   :block/created-at 1646990007995,
   :block/updated-at 1646990007995}
  {:block/name "碳交易10讲",
   :block/created-at 1646990008094,
   :block/updated-at 1647219770273}
- {:block/name "组织机构",
-  :block/created-at 1647098033943,
-  :block/updated-at 1647098033943}
- {:block/name "股权转让",
-  :block/created-at 1647098183228,
-  :block/updated-at 1647098183228}
  {:block/name "股票作手回忆录",
   :block/created-at 1646990008174,
   :block/updated-at 1647219838615}
  {:block/name "能源领域",
   :block/created-at 1646990008219,
   :block/updated-at 1646990008219}
- {:block/name "设立退出",
-  :block/created-at 1647098145955,
-  :block/updated-at 1647098145955}
  {:block/name "财务是个真实的谎言",
   :block/created-at 1646990007852,
   :block/updated-at 1647219466491}
- {:block/name "资本制度",
-  :block/created-at 1647098157221,
-  :block/updated-at 1647098157221}
  {:block/name "金融工具",
   :block/created-at 1646990008301,
   :block/updated-at 1646990008301}
