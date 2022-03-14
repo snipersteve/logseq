@@ -54,24 +54,27 @@
   :block/created-at 1647065342020,
   :block/updated-at 1647218588843}
  {:block/name "hls__一本书读懂财报_肖星_1630466829711_0",
-  :block/created-at 1646990007114,
-  :block/updated-at 1646990007114}
+  :block/created-at 1647220266242,
+  :block/updated-at 1647220266242}
  {:block/name "hls__公司法前沿问题研究-朱锦清_1628498520059_0",
-  :block/created-at 1646990007179,
-  :block/updated-at 1646990007179}
+  :block/created-at 1647220196254,
+  :block/updated-at 1647220196254}
  {:block/name
   "hls__卡片笔记写作法_如何实现从阅读到写作_聪_by_申克阿伦斯_z_lib_org_1646494157638_0",
   :block/created-at 1646990007251,
-  :block/updated-at 1647218833892}
+  :block/updated-at 1647219411880}
  {:block/name "hls__底层逻辑_看清这个世界的底牌_刘润_1638658996646_0",
   :block/created-at 1646990007325,
   :block/updated-at 1646990007325}
  {:block/name "hls__得到前沿课·碳交易10讲_1637568930215_0",
   :block/created-at 1646990007522,
   :block/updated-at 1646990007522}
+ {:block/name "hls__股票作手回忆录_1638328884205_0",
+  :block/created-at 1647219812980,
+  :block/updated-at 1647219812980}
  {:block/name "hls__财务是个真实的谎言_1628498223364_0",
   :block/created-at 1646990007692,
-  :block/updated-at 1647218774107}
+  :block/updated-at 1647219448125}
  {:block/name "in-progress",
   :block/created-at 1646990765171,
   :block/updated-at 1646990765171}
@@ -101,22 +104,22 @@
   :block/updated-at 1647098223049}
  {:block/name "一本书读懂财报",
   :block/created-at 1646990007767,
-  :block/updated-at 1647064871616}
+  :block/updated-at 1647220332003}
  {:block/name "公司法",
   :block/created-at 1647065459140,
   :block/updated-at 1647103113990}
  {:block/name "公司法修订草案",
   :block/created-at 1647065195553,
-  :block/updated-at 1647065331642}
+  :block/updated-at 1647219881882}
  {:block/name "公司法前言问题研究",
   :block/created-at 1646990007808,
-  :block/updated-at 1646990007808}
+  :block/updated-at 1647220218831}
  {:block/name "公司财务",
   :block/created-at 1646990007854,
   :block/updated-at 1647065195555}
  {:block/name "卡片笔记写作法",
   :block/created-at 1646990007902,
-  :block/updated-at 1646998379677}
+  :block/updated-at 1647219424503}
  {:block/name "国有企业",
   :block/created-at 1647098217391,
   :block/updated-at 1647103071316}
@@ -131,7 +134,7 @@
   :block/updated-at 1646990007995}
  {:block/name "碳交易10讲",
   :block/created-at 1646990008094,
-  :block/updated-at 1646990008094}
+  :block/updated-at 1647219770273}
  {:block/name "组织机构",
   :block/created-at 1647098033943,
   :block/updated-at 1647098033943}
@@ -140,7 +143,7 @@
   :block/updated-at 1647098183228}
  {:block/name "股票作手回忆录",
   :block/created-at 1646990008174,
-  :block/updated-at 1646990008174}
+  :block/updated-at 1647219838615}
  {:block/name "能源领域",
   :block/created-at 1646990008219,
   :block/updated-at 1646990008219}
@@ -149,7 +152,7 @@
   :block/updated-at 1647098145955}
  {:block/name "财务是个真实的谎言",
   :block/created-at 1646990007852,
-  :block/updated-at 1647186445178}
+  :block/updated-at 1647219466491}
  {:block/name "资本制度",
   :block/created-at 1647098157221,
   :block/updated-at 1647098157221}
