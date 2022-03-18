@@ -1,11 +1,4 @@
-[{:block/name "../asset/company-law-draft-revision_1645607584782_0",
-  :block/created-at 1647065283317,
-  :block/updated-at 1647065283317}
- {:block/name
-  "../asset/company-law-draft-revision_1645607584782_0.pdf",
-  :block/created-at 1647065285858,
-  :block/updated-at 1647065285858}
- {:block/name "20220311",
+[{:block/name "20220311",
   :block/created-at 1646998176662,
   :block/updated-at 1647161875104}
  {:block/name "20220312",
