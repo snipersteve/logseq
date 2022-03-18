@@ -1,4 +1,11 @@
-[{:block/name "20220311",
+[{:block/name "../asset/company-law-draft-revision_1645607584782_0",
+  :block/created-at 1647065283317,
+  :block/updated-at 1647065283317}
+ {:block/name
+  "../asset/company-law-draft-revision_1645607584782_0.pdf",
+  :block/created-at 1647065285858,
+  :block/updated-at 1647065285858}
+ {:block/name "20220311",
   :block/created-at 1646998176662,
   :block/updated-at 1647161875104}
  {:block/name "20220312",
@@ -61,6 +68,9 @@
  {:block/name "hls__股票作手回忆录_1638328884205_0",
   :block/created-at 1647219812980,
   :block/updated-at 1647226177803}
+ {:block/name "hls__薛兆丰经济学讲义_1647564829770_0",
+  :block/created-at 1647564845863,
+  :block/updated-at 1647564860475}
  {:block/name "hls__财务是个真实的谎言_1628498223364_0",
   :block/created-at 1646990007692,
   :block/updated-at 1647219448125}
@@ -93,7 +103,7 @@
   :block/updated-at 1647226318832}
  {:block/name "书籍文本",
   :block/created-at 1647225700571,
-  :block/updated-at 1647237382495}
+  :block/updated-at 1647564830325}
  {:block/name "公司法修订草案",
   :block/created-at 1647226318831,
   :block/updated-at 1647226318831}
@@ -127,6 +137,9 @@
  {:block/name "能源领域",
   :block/created-at 1646990008219,
   :block/updated-at 1646990008219}
+ {:block/name "薛兆丰经济学讲义",
+  :block/created-at 1647564860474,
+  :block/updated-at 1647564860474}
  {:block/name "财务是个真实的谎言",
   :block/created-at 1646990007852,
   :block/updated-at 1647219466491}
