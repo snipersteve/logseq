@@ -40,9 +40,6 @@
  {:block/name "favorites",
   :block/created-at 1647152843098,
   :block/updated-at 1647152843098}
- {:block/name "hls__company-law-draft-revision_1645607584782_0",
-  :block/created-at 1647065342020,
-  :block/updated-at 1647226046942}
  {:block/name "hls__一本书读懂财报_肖星_1630466829711_0",
   :block/created-at 1647220266242,
   :block/updated-at 1647226007219}
@@ -97,9 +94,6 @@
  {:block/name "书籍文本",
   :block/created-at 1647225700571,
   :block/updated-at 1647564830325}
- {:block/name "公司法修订草案",
-  :block/created-at 1647226318831,
-  :block/updated-at 1647226318831}
  {:block/name "公司法前沿问题研究",
   :block/created-at 1647225977725,
   :block/updated-at 1647225977725}
