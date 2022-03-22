@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "82083bdfc08c982a",
+        "id": "083068a46a21756c",
         "type": "leaf",
         "state": {
           "type": "memos_view",
@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,8 +83,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "82083bdfc08c982a",
+  "active": "083068a46a21756c",
   "lastOpenFiles": [
+    "pages/反垄断法的经济学革命.md",
+    "pages/反垄断法.md",
     "journals/2022-03-22.md",
     "journals/2022-03-21.md",
     "journals/2022-03-20.md",
@@ -93,8 +94,6 @@
     "pages/contents.md",
     "pages/00 TASK.md",
     "assets/Pasted image 20220322003858.png",
-    "pages/工具.笔记.md",
-    "pages/未命名.md",
-    "README.md"
+    "pages/工具.笔记.md"
   ]
 }
