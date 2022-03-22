@@ -166,7 +166,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :ui/show-brackets? false
- :journal/page-title-format "yyyyMMdd"
+ :journal/page-title-format "yyyy-MM-dd"
  :feature/enable-timetracking? false
  :feature/enable-journals? false
  :default-home {:page "Intro"}
