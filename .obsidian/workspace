@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "fd544d2ef2d51f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "82083bdfc08c982a",
+        "type": "leaf",
+        "state": {
+          "type": "memos_view",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e87956fe802afe3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "80b7ddf5d8674125",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69dd4e2b0ac94fd8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6bf1e59a14ec30a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "958940fe717b5adc",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbdee6732d128de1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "197bb79e77c8a89a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "82083bdfc08c982a",
+  "lastOpenFiles": [
+    "journals/2022-03-22.md",
+    "journals/2022-03-21.md",
+    "journals/2022-03-20.md",
+    "journals/delete.md",
+    "pages/contents.md",
+    "pages/00 TASK.md",
+    "assets/Pasted image 20220322003858.png",
+    "pages/工具.笔记.md",
+    "pages/未命名.md",
+    "README.md"
+  ]
+}
