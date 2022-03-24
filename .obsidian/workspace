@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "083068a46a21756c",
+        "id": "b97dc4d18b54cb5f",
         "type": "leaf",
         "state": {
           "type": "memos_view",
@@ -83,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "083068a46a21756c",
+  "active": "b97dc4d18b54cb5f",
   "lastOpenFiles": [
-    "pages/反垄断法的经济学革命.md",
-    "pages/反垄断法.md",
-    "journals/2022-03-22.md",
-    "journals/2022-03-21.md",
-    "journals/2022-03-20.md",
-    "journals/delete.md",
+    "pages/未命名.md",
     "pages/contents.md",
-    "pages/00 TASK.md",
-    "assets/Pasted image 20220322003858.png",
-    "pages/工具.笔记.md"
+    "pages/hls__得到前沿课·碳交易10讲_1637568930215_0.md",
+    "pages/hls__财务是个真实的谎言_1628498223364_0.md",
+    "pages/书籍文本.md",
+    "assets/财务是个真实的谎言_1628498223364_0.pdf",
+    "assets/Company-Law-Draft-Revision_1645607584782_0.pdf",
+    "pages/阅读记录.md",
+    "assets/卡片笔记写作法_如何实现从阅读到写作_1646494157638_0.pdf",
+    "assets/股票作手回忆录_1638328884205_0.pdf"
   ]
 }
