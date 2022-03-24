@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b97dc4d18b54cb5f",
+        "id": "0516888c70e81109",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "pages/反垄断法.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -49,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "958940fe717b5adc",
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/反垄断法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b97dc4d18b54cb5f",
+  "active": "0516888c70e81109",
   "lastOpenFiles": [
+    "pages/反垄断法.md",
     "pages/未命名.md",
-    "pages/contents.md",
+    "pages/能源领域.md",
+    "pages/hls__公司法前沿问题研究-朱锦清_1628498520059_0.md",
     "pages/hls__得到前沿课·碳交易10讲_1637568930215_0.md",
     "pages/hls__财务是个真实的谎言_1628498223364_0.md",
-    "pages/书籍文本.md",
-    "assets/财务是个真实的谎言_1628498223364_0.pdf",
-    "assets/Company-Law-Draft-Revision_1645607584782_0.pdf",
-    "pages/阅读记录.md",
-    "assets/卡片笔记写作法_如何实现从阅读到写作_1646494157638_0.pdf",
-    "assets/股票作手回忆录_1638328884205_0.pdf"
+    "pages/contents.md",
+    "pages/card.md",
+    "pages/杂七杂八.md",
+    "pages/阅读记录.md"
   ]
 }
