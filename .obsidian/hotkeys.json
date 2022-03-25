@@ -24,7 +24,14 @@
       "key": "J"
     }
   ],
-  "file-explorer:new-file": [],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
   "obsidian-memos:note-it": [
     {
       "modifiers": [
