@@ -168,7 +168,7 @@
  :ui/show-brackets? false
  :journal/page-title-format "yyyy-MM-dd"
  :feature/enable-timetracking? false
- :feature/enable-journals? true
+ :feature/enable-journals? false
  :default-home {:page "Intro"}
  :publishing/all-pages-public? true
  :favorites ["书籍文本" "阅读记录"]
