@@ -1,13 +1,18 @@
-@import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@latest/custom.css");
+@import url('https://cdn.jsdelivr.net/gh/g1eny0ung/logseq-github-theme@master/light.css');
+@import url('https://cdn.jsdelivr.net/gh/g1eny0ung/logseq-github-theme@master/dark.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap');
 
-@font-face {
-  font-family: "Genshin";
-  font-style: normal;
-  font-weight: normal;
-  src: url(https://static.wikia.nocookie.net/gensin-impact/images/6/65/Genshin_Impact_Font.woff)
-    format("truetype");
+.journals-nav,
+.flashcards-nav,
+.github-alert {
+  display: none;
 }
 
-.genshin {
-  font-family: Genshin;
+#main-content-container > div[data-is-full-width="false"] > div {
+  max-width: 38em;
+}
+
+.content {
+  font-family: 'Noto Serif SC', serif;
+  text-align: justify;
 }
