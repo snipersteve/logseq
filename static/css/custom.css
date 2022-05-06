@@ -1,0 +1,18 @@
+@import url('https://cdn.jsdelivr.net/gh/g1eny0ung/logseq-github-theme@master/light.css');
+@import url('https://cdn.jsdelivr.net/gh/g1eny0ung/logseq-github-theme@master/dark.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap');
+
+.journals-nav,
+.flashcards-nav,
+.github-alert {
+  display: none;
+}
+
+#main-content-container > div[data-is-full-width="false"] > div {
+  max-width: 38em;
+}
+
+.content {
+  font-family: 'Noto Serif SC', serif;
+  text-align: justify;
+}
