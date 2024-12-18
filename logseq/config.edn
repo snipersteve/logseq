@@ -172,6 +172,8 @@
  :default-home {:page "Intro"}
  :publishing/all-pages-public? true
  :favorites ["书籍文本" "阅读记录"]
+ :feature/enable-flashcards? false
+ :feature/enable-whiteboards? false
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
